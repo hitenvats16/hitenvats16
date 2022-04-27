@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitenvats16
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Anything Random
 - 📫 One can reach me at my email - hitenvats16@gmail.com
 
 <!---
